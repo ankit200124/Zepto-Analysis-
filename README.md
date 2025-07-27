@@ -55,6 +55,8 @@ An advanced Excel dashboard built to analyze Zepto’s multi-dimensional sales a
 - **Fruits & Vegetables** and **Snacks** were among the top-selling categories.  
 - Sales peaked in a specific year, showing seasonal or expansion-based demand.  
 - Customer ratings remained consistently high, reflecting product satisfaction.
+##
+<a href=""> Dashboard ScreenShot</a>
 
 ## 📂 Repository Structure
 Zepto-Sales-Dashboard/
