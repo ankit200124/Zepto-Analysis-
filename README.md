@@ -56,7 +56,7 @@ An advanced Excel dashboard built to analyze Zepto’s multi-dimensional sales a
 - Sales peaked in a specific year, showing seasonal or expansion-based demand.  
 - Customer ratings remained consistently high, reflecting product satisfaction.
 ##
-<a href=""> Dashboard ScreenShot</a>
+<a href="https://github.com/ankit200124/Zepto-Analysis-/blob/main/Dashboard%20Screenshot.png"> Dashboard ScreenShot</a>
 
 ## 📂 Repository Structure
 Zepto-Sales-Dashboard/
