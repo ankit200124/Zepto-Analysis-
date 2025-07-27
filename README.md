@@ -77,7 +77,8 @@ This project demonstrates how Excel, when combined with structured thinking and 
 
 
 ## DASHBOARD
-<img width="317" height="169" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/87dfb2f9-8a15-49db-96cf-7dde4b06923f" />
+<img width="1240" height="677" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/0cbfdbed-c1af-4d12-8522-593ccc2f2d36" />
+
 
 
 
