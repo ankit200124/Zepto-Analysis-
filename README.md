@@ -6,6 +6,9 @@ An advanced Excel dashboard analyzing Zepto’s sales, outlets, and product mix 
 
 An advanced Excel dashboard built to analyze Zepto’s multi-dimensional sales and operational data. This project uses **PivotTables, dynamic charts, slicers, and VBA macros** to deliver business insights in an automated and interactive format.
 
+# PROJECT
+- <a href="https://github.com/ankit200124/Zepto-Analysis-/blob/main/ZEPTO%20FINAL%20EXCEL%20PROJECT.xlsm"> Dashboard with file</a>
+
 ---
 
 ## 🎯 Project Objectives
