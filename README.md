@@ -11,7 +11,7 @@ An advanced Excel dashboard built to analyze Zepto’s multi-dimensional sales a
 - Analyze Zepto’s sales performance across years, outlet types, and item categories.  
 - Segment revenue by fat content, outlet tier, and product type.  
 - Identify trends and patterns using visual storytelling.  
-- Use **macros** to enhance usability and automate report interaction.
+- Use macros to enhance usability and automate report interaction.
 
 
 #  Key Business Questions (KPIs)
