@@ -73,7 +73,7 @@ Zepto-Sales-Dashboard/
 This project demonstrates how Excel, when combined with structured thinking and automation via macros, can deliver high-impact business dashboards. It bridges raw data and strategic decisions through clear, actionable visuals — tailored for business users and analysts alike.
 
 # PROJECT
-- <a href="https://github.com/ankit200124/Zepto-Analysis-/blob/main/ZEPTO%20FINAL%20EXCEL%20PROJECT.xlsm"> Dashboard with file</a>
+- <a href="https://github.com/ankit200124/Zepto-Analysis-/blob/main/ZEPTO%20FINAL%20EXCEL%20PROJECT.xlsm"> Dashboard with Data</a>
 
 
 ## DASHBOARD SCREENSHOT
