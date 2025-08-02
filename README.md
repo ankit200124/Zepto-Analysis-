@@ -76,7 +76,7 @@ This project demonstrates how Excel, when combined with structured thinking and 
 - <a href="https://github.com/ankit200124/Zepto-Analysis-/blob/main/ZEPTO%20FINAL%20EXCEL%20PROJECT.xlsm"> Dashboard with file</a>
 
 
-## DASHBOARD
+## DASHBOARD SCREENSHOT
 <img width="1240" height="677" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/0cbfdbed-c1af-4d12-8522-593ccc2f2d36" />
 
 
