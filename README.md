@@ -41,7 +41,7 @@ An advanced Excel dashboard built to analyze Zepto’s multi-dimensional sales a
   - Auto-refresh pivot tables on open  
   - Improves user experience, especially for non-technical user
 
-# Dashboard Overview (Insights – No Numbers)
+# Dashboard Overview 
 
 - **Outlet Tier 3** emerged as a high performer across multiple KPIs.  
 - **Regular fat content** items dominated revenue share.  
