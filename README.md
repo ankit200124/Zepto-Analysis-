@@ -1,3 +1,6 @@
+<img width="1068" height="716" alt="Logo_of_Zepto" src="https://github.com/user-attachments/assets/e5aadeea-d664-43e4-bdb3-305736dfcf99" />
+
+
 # Zepto-Analysis-
 An advanced Excel dashboard analyzing Zepto’s sales, outlets, and product mix using KPIs, PivotTables, slicers, charts, and automated workflows via VBA macros. Includes dynamic filters, trend analysis, and data segmentation for actionable business insights.
 
